@@ -40,7 +40,7 @@ The aim of this analysis is to assess the disparities in healthcare access acros
 
 ## 🖼️ Dashboard Preview
 
-![Africa Healthcare Dashboard](africa_healthcare_dashboard.jpg)
+![Africa Healthcare Dashboard](./africa_healthcare_dashboard.jpg)
 
 ---
 
