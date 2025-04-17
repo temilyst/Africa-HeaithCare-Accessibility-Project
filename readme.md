@@ -31,16 +31,13 @@ The aim of this analysis is to assess the disparities in healthcare access acros
 
 ## 📁 Files Included
 
-- [`africa_healthcare_dataset.xlsx`](./africa_healthcare_dataset.xlsx) – the dataset used for analysis.
-- [`africa_healthcare_dashboard.pbix`](./africa_healthcare_dashboard.pbix) – the Power BI report file containing visualizations and dashboards.
-- [`africa_healthcare_dashboard.jpg`](./africa_healthcare_dashboard.jpg) – an image preview of the Power BI dashboard.
-
-
----
+- [`Healthcare_Access_Africa.csv`](./Healthcare_Access_Africa.csv) – the dataset used for analysis.
+- [`Africa healthcare project.pbix`](./Africa%20healthcare%20project.pbix) – the Power BI report file containing visualizations and dashboards.
+- [`Africa health care shot.PNG`](./Africa%20health%20care%20shot.PNG) – an image preview of the Power BI dashboard.
 
 ## 🖼️ Dashboard Preview
 
-![Africa Healthcare Dashboard](./africa_healthcare_dashboard.jpg)
+![Africa Healthcare Dashboard](./Africa%20health%20care%20shot.PNG)
 
 ---
 
